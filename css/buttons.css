@@ -1,0 +1,78 @@
+#buttons {
+	text-align: center;
+	font-family: 'Gotham-Medium';
+	display: table-cell;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+}
+
+.btn {
+	padding: 12px;
+	font-size: 20px;
+	text-decoration: none;
+	margin: 10px;
+	color: #fff;
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+}
+.btn:hover {
+	color: white;
+}
+
+.bg-grass {
+	background-color: #00ce00;
+}
+
+.bg-grass:hover {
+	background-color: #89F93F;
+}
+
+.blue {
+	background-color: #55acee;
+}
+
+.blue:hover {
+	background-color: #6FC6FF;
+}
+
+.green {
+	background-color: #2ecc71;
+}
+
+.green:hover {
+	background-color: #48E68B;
+}
+
+.red {
+	background-color: #e74c3c;
+}
+
+.red:hover {
+	background-color: #FF6656;
+}
+
+.purple {
+	background-color: #9b59b6;
+}
+
+.purple:hover {
+	background-color: #B573D0;
+}
+
+.orange {
+	background-color: #e67e22;
+}
+
+.orange:hover {
+	background-color: #FF983C;
+}
+
+.yellow {
+	background-color: #f1c40f;
+}
+
+.yellow:hover {
+	background-color: #FFDE29;
+}
